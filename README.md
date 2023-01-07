@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aylan</h1>
 <h3 align="center">An artist from both worlds 🖥/🖌.</h3>
 
-<p align="center">- 🌱 I’m currently learning **Vue.JS, React, JS, CSS, HTML**
+<p align="center">- 🌱 I’m currently learning **Vue.JS, React, JS, CSS, HTML**</p>
 
-- 📫 How to reach me **camila.r.g.m07@gmail.com**</p>
+<p align="center">- 📫 How to reach me **camila.r.g.m07@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
